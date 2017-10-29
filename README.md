@@ -25,7 +25,7 @@ The parameters in the function are :<br>
 
 ### 4. Outputs:
 (Early Stopping: In my code, I set the training to terminate early before all epochs have run when the difference between the accuracy score of training set and validation set is larger or equal to 0.15. The reason is that if the difference is larger or equal than 0.15, it means that the model is overfitting and result will not be well generalized.)
-![testcases](https://user-images.githubusercontent.com/27776652/32146147-34ef9ad6-bca1-11e7-89d3-824295b6837b.PNG)
+![testcases](https://user-images.githubusercontent.com/27776652/32146229-fa2cb2f2-bca1-11e7-8c90-3ac60935db4e.PNG)
 ![tc1](https://user-images.githubusercontent.com/27776652/32146148-3504e968-bca1-11e7-8f65-3388084858b0.PNG)
 ![tc1_plot](https://user-images.githubusercontent.com/27776652/32146149-351466d6-bca1-11e7-8b81-ceac59d6694c.PNG)
 ![tc2](https://user-images.githubusercontent.com/27776652/32146150-352cab6a-bca1-11e7-87ec-f85279b84b1a.PNG)
